@@ -17,3 +17,5 @@ If you use this code or dataset in your own work, please cite us as follows:
             ISSN={1524-9050}, 
             month={},
         }
+
+The work of M. R. Carlos and L. C. González for this article was supported by the 2017 Google Research Awards for Latin America. 
