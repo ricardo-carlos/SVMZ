@@ -1,5 +1,5 @@
 # SVMZ
-Code and data for
+Code and data for:
 
 M. R. Carlos, M. E. Aragón, L. C. González, H. J. Escalante and F. Martínez, "Evaluation of Detection Approaches for Road Anomalies Based on Accelerometer Readings--Addressing Who's Who," in IEEE Transactions on Intelligent Transportation Systems. doi: 10.1109/TITS.2017.2773084
 
